@@ -1,6 +1,6 @@
 # Auction
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.0.
+This is a platform to show users' auction objects and prices just like ebay. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.0.
 
 ## Development server
 
